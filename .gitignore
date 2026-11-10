@@ -1,0 +1,7 @@
+node_modules/
+.env
+reporte/
+resultados/
+playwright/.cache/
+.auth/
+reporte-json/

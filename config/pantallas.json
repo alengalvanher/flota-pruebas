@@ -1,0 +1,322 @@
+{
+  "liderflota": [
+    {
+      "ruta": "Home",
+      "url": "/home"
+    },
+    {
+      "ruta": "Inventario › Dashboard",
+      "url": "/inventario/dashboard"
+    },
+    {
+      "ruta": "Inventario › Flota patrimonio › Consulta",
+      "url": "/inventario/patrimonio/consulta"
+    },
+    {
+      "ruta": "Inventario › Solicitudes",
+      "url": "/solicitudes"
+    },
+    {
+      "ruta": "Neumáticos › Dashboard",
+      "url": "/neumaticos/dashboard"
+    },
+    {
+      "ruta": "Neumáticos › Registro",
+      "url": "/neumaticos/registro"
+    },
+    {
+      "ruta": "Neumáticos › Inventario › En uso",
+      "url": "/neumaticos/en-uso"
+    },
+    {
+      "ruta": "Neumáticos › Inventario › En almacén",
+      "url": "/neumaticos/en-almacen"
+    },
+    {
+      "ruta": "Neumáticos › Inventario › En renovación",
+      "url": "/neumaticos/en-renovacion"
+    },
+    {
+      "ruta": "Neumáticos › Inventario › Bajas",
+      "url": "/neumaticos/bajas"
+    },
+    {
+      "ruta": "Neumáticos › Movimientos",
+      "url": "/neumaticos/movimientos"
+    },
+    {
+      "ruta": "Neumáticos › Histórico",
+      "url": "/neumaticos/historico"
+    },
+    {
+      "ruta": "Neumáticos › Solicitudes",
+      "url": "/neumaticos/solicitudes"
+    },
+    {
+      "ruta": "Refacciones › Dashboard",
+      "url": "/refacciones/dashboard"
+    },
+    {
+      "ruta": "Refacciones › Salidas",
+      "url": "/refacciones/salidas"
+    },
+    {
+      "ruta": "Refacciones › Salidas › Refacciones",
+      "url": "/refacciones/salidas/refacciones"
+    },
+    {
+      "ruta": "Refacciones › Salidas › Neumáticos",
+      "url": "/refacciones/salidas/neumaticos"
+    },
+    {
+      "ruta": "Refacciones › Solicitudes › Compra",
+      "url": "/refacciones/solicitudes/compra"
+    },
+    {
+      "ruta": "Refacciones › Solicitudes › Traspasos",
+      "url": "/refacciones/solicitudes/traspasos"
+    },
+    {
+      "ruta": "Refacciones › Solicitudes › Automáticos",
+      "url": "/refacciones/solicitudes/automatizadas"
+    },
+    {
+      "ruta": "Mantenimiento › Dashboard",
+      "url": "/mantenimiento/dashboard"
+    },
+    {
+      "ruta": "Mantenimiento › Órdenes de Trabajo",
+      "url": "/mantenimiento/orden-trabajo"
+    },
+    {
+      "ruta": "Mantenimiento › Agenda",
+      "url": "/mantenimiento/agenda"
+    },
+    {
+      "ruta": "Mantenimiento › Configurador",
+      "url": "/mantenimiento/configurator"
+    },
+    {
+      "ruta": "Mantenimiento › Actualización Masiva",
+      "url": "/mantenimiento/configurator/carga-masiva"
+    },
+    {
+      "ruta": "Mantenimiento › Almacén de huesos",
+      "url": "/mantenimiento/almacen/huesos"
+    },
+    {
+      "ruta": "Checklist › Dashboard",
+      "url": "/checklist/dashboard"
+    },
+    {
+      "ruta": "Checklist › Inspecciones › Salida",
+      "url": "/checklist/inspecciones/salida"
+    },
+    {
+      "ruta": "Checklist › Inspecciones › Reportes de fallo",
+      "url": "/checklist/inspecciones/reporte-fallos"
+    }
+  ],
+  "adminneumaticos": [
+    {
+      "ruta": "Home",
+      "url": "/home"
+    },
+    {
+      "ruta": "Neumáticos › Dashboard",
+      "url": "/neumaticos/dashboard"
+    },
+    {
+      "ruta": "Neumáticos › Registro",
+      "url": "/neumaticos/registro"
+    },
+    {
+      "ruta": "Neumáticos › Inventario › En uso",
+      "url": "/neumaticos/en-uso"
+    },
+    {
+      "ruta": "Neumáticos › Inventario › En almacén",
+      "url": "/neumaticos/en-almacen"
+    },
+    {
+      "ruta": "Neumáticos › Inventario › En renovación",
+      "url": "/neumaticos/en-renovacion"
+    },
+    {
+      "ruta": "Neumáticos › Inventario › Bajas",
+      "url": "/neumaticos/bajas"
+    },
+    {
+      "ruta": "Neumáticos › Movimientos",
+      "url": "/neumaticos/movimientos"
+    },
+    {
+      "ruta": "Neumáticos › Solicitudes",
+      "url": "/neumaticos/solicitudes"
+    }
+  ],
+  "liderregional": [
+    {
+      "ruta": "Home",
+      "url": "/home"
+    },
+    {
+      "ruta": "Inventario › Dashboard",
+      "url": "/inventario/dashboard"
+    },
+    {
+      "ruta": "Inventario › Flota patrimonio › Consulta",
+      "url": "/inventario/patrimonio/consulta"
+    },
+    {
+      "ruta": "Inventario › Solicitudes",
+      "url": "/solicitudes"
+    },
+    {
+      "ruta": "Neumáticos › Dashboard",
+      "url": "/neumaticos/dashboard"
+    },
+    {
+      "ruta": "Neumáticos › Solicitudes",
+      "url": "/neumaticos/solicitudes"
+    },
+    {
+      "ruta": "Refacciones › Dashboard",
+      "url": "/refacciones/dashboard"
+    },
+    {
+      "ruta": "Refacciones › Catálogo de materiales",
+      "url": "/refacciones/consulta"
+    },
+    {
+      "ruta": "Refacciones › Inventario › Almacén",
+      "url": "/refacciones/inventario/almacen"
+    },
+    {
+      "ruta": "Refacciones › Solicitudes › Compra",
+      "url": "/refacciones/solicitudes/compra"
+    },
+    {
+      "ruta": "Refacciones › Solicitudes › Traspasos",
+      "url": "/refacciones/solicitudes/traspasos"
+    },
+    {
+      "ruta": "Refacciones › Solicitudes › Automáticos",
+      "url": "/refacciones/solicitudes/automatizadas"
+    },
+    {
+      "ruta": "Mantenimiento › Dashboard",
+      "url": "/mantenimiento/dashboard"
+    },
+    {
+      "ruta": "Mantenimiento › Órdenes de Trabajo",
+      "url": "/mantenimiento/orden-trabajo"
+    },
+    {
+      "ruta": "Mantenimiento › Agenda",
+      "url": "/mantenimiento/agenda"
+    },
+    {
+      "ruta": "Gasto › Dashboard",
+      "url": "/gasto/dashboard"
+    },
+    {
+      "ruta": "Gasto › Consulta",
+      "url": "/gasto/consulta"
+    },
+    {
+      "ruta": "Gasto › Solicitudes",
+      "url": "/gasto/solicitudes"
+    },
+    {
+      "ruta": "Gasto › Histórico",
+      "url": "/gasto/historico"
+    },
+    {
+      "ruta": "Vial · gestoría › Documentación",
+      "url": "/gestoria/documentacion/unidades"
+    }
+  ],
+  "mecanico": [
+    {
+      "ruta": "Home",
+      "url": "/home"
+    },
+    {
+      "ruta": "Mantenimiento › Dashboard",
+      "url": "/mantenimiento/dashboard"
+    },
+    {
+      "ruta": "Mantenimiento › Órdenes de Trabajo",
+      "url": "/mantenimiento/orden-trabajo"
+    },
+    {
+      "ruta": "Mantenimiento › Agenda",
+      "url": "/mantenimiento/agenda"
+    },
+    {
+      "ruta": "Mantenimiento › Configurador",
+      "url": "/mantenimiento/configurator"
+    },
+    {
+      "ruta": "Mantenimiento › Actualización Masiva",
+      "url": "/mantenimiento/configurator/carga-masiva"
+    }
+  ],
+  "almacen": [
+    {
+      "ruta": "Home",
+      "url": "/home"
+    },
+    {
+      "ruta": "Mantenimiento › Dashboard",
+      "url": "/mantenimiento/dashboard"
+    },
+    {
+      "ruta": "Mantenimiento › Solicitudes › Consulta",
+      "url": "/mantenimiento/almacen/consulta"
+    },
+    {
+      "ruta": "Mantenimiento › Almacén de huesos",
+      "url": "/mantenimiento/almacen/huesos"
+    }
+  ],
+  "compras": [
+    {
+      "ruta": "Home",
+      "url": "/home"
+    },
+    {
+      "ruta": "Refacciones › Dashboard",
+      "url": "/refacciones/dashboard"
+    },
+    {
+      "ruta": "Refacciones › Catálogo de materiales",
+      "url": "/refacciones/consulta"
+    },
+    {
+      "ruta": "Refacciones › Solicitudes › Compra",
+      "url": "/refacciones/solicitudes/compra"
+    },
+    {
+      "ruta": "Refacciones › Solicitudes › Traspasos",
+      "url": "/refacciones/solicitudes/traspasos"
+    },
+    {
+      "ruta": "Refacciones › Solicitudes › Automáticos",
+      "url": "/refacciones/solicitudes/automatizadas"
+    },
+    {
+      "ruta": "Mantenimiento › Dashboard",
+      "url": "/mantenimiento/dashboard"
+    },
+    {
+      "ruta": "Mantenimiento › Órdenes de Trabajo",
+      "url": "/mantenimiento/orden-trabajo"
+    },
+    {
+      "ruta": "Mantenimiento › Agenda",
+      "url": "/mantenimiento/agenda"
+    }
+  ]
+}
